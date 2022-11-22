@@ -2,7 +2,7 @@ package main
 
 import "math/big"
 
-// Fibonacci calculates Fibonacci number.
+// Fibobonacci calculates Fibonacci number.
 // This function generated correct values from 0 to 93 sequence number.
 // For bigger values use FibonacciBig function.
 func Fibonacci(n uint) uint64 {
